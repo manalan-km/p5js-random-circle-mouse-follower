@@ -5,7 +5,7 @@
 
 function setup() {
   //creates a canvas of size 600 X 600 pixels.
-  createCanvas(1920, 1080);
+  createCanvas(windowWidth, windowHeight);
   //creates a bg of black colour
   background(0);
 }
